@@ -1,0 +1,249 @@
+2014-12-22 20:08:01,239 - [INFO] - from play in pool-4-thread-4 
+Listening for HTTP on /0:0:0:0:0:0:0:0:9000
+
+2014-12-22 20:08:37,369 - [INFO] - from play in play-internal-execution-context-1 
+database [default] connected at jdbc:postgresql://cloudproj.ct233hyipvfx.us-east-1.rds.amazonaws.com:5432/elandb
+
+2014-12-22 20:08:38,228 - [INFO] - from play in play-internal-execution-context-1 
+Application started (Dev)
+
+2014-12-22 20:13:18,314 - [INFO] - from play in play-internal-execution-context-1 
+database [default] connected at jdbc:postgresql://cloudproj.ct233hyipvfx.us-east-1.rds.amazonaws.com:5432/elandb
+
+2014-12-22 20:13:18,463 - [INFO] - from play in play-internal-execution-context-1 
+Application started (Dev)
+
+2014-12-22 20:15:34,225 - [INFO] - from play in play-internal-execution-context-1 
+database [default] connected at jdbc:postgresql://cloudproj.ct233hyipvfx.us-east-1.rds.amazonaws.com:5432/elandb
+
+2014-12-22 20:15:34,392 - [INFO] - from play in play-internal-execution-context-1 
+Application started (Dev)
+
+2014-12-22 20:16:40,286 - [INFO] - from play in play-internal-execution-context-1 
+database [default] connected at jdbc:postgresql://cloudproj.ct233hyipvfx.us-east-1.rds.amazonaws.com:5432/elandb
+
+2014-12-22 20:16:40,415 - [INFO] - from play in play-internal-execution-context-1 
+Application started (Dev)
+
+2014-12-22 20:20:40,095 - [INFO] - from play in play-internal-execution-context-1 
+database [default] connected at jdbc:postgresql://cloudproj.ct233hyipvfx.us-east-1.rds.amazonaws.com:5432/elandb
+
+2014-12-22 20:20:40,218 - [INFO] - from play in play-internal-execution-context-1 
+Application started (Dev)
+
+2014-12-22 20:21:10,316 - [INFO] - from play in play-internal-execution-context-1 
+database [default] connected at jdbc:postgresql://cloudproj.ct233hyipvfx.us-east-1.rds.amazonaws.com:5432/elandb
+
+2014-12-22 20:21:10,465 - [INFO] - from play in play-internal-execution-context-1 
+Application started (Dev)
+
+2014-12-22 20:24:31,198 - [INFO] - from play in play-internal-execution-context-1 
+database [default] connected at jdbc:postgresql://cloudproj.ct233hyipvfx.us-east-1.rds.amazonaws.com:5432/elandb
+
+2014-12-22 20:24:31,292 - [INFO] - from play in play-internal-execution-context-1 
+Application started (Dev)
+
+2014-12-22 20:33:38,121 - [INFO] - from play in play-internal-execution-context-1 
+database [default] connected at jdbc:postgresql://cloudproj.ct233hyipvfx.us-east-1.rds.amazonaws.com:5432/elandb
+
+2014-12-22 20:33:38,239 - [INFO] - from play in play-internal-execution-context-1 
+Application started (Dev)
+
+2014-12-22 20:34:31,297 - [INFO] - from play in play-internal-execution-context-1 
+database [default] connected at jdbc:postgresql://cloudproj.ct233hyipvfx.us-east-1.rds.amazonaws.com:5432/elandb
+
+2014-12-22 20:34:31,416 - [INFO] - from play in play-internal-execution-context-1 
+Application started (Dev)
+
+2014-12-22 20:36:24,653 - [INFO] - from play in play-internal-execution-context-1 
+database [default] connected at jdbc:postgresql://cloudproj.ct233hyipvfx.us-east-1.rds.amazonaws.com:5432/elandb
+
+2014-12-22 20:36:24,765 - [INFO] - from play in play-internal-execution-context-1 
+Application started (Dev)
+
+2014-12-22 20:39:13,787 - [INFO] - from play in play-internal-execution-context-1 
+database [default] connected at jdbc:postgresql://cloudproj.ct233hyipvfx.us-east-1.rds.amazonaws.com:5432/elandb
+
+2014-12-22 20:39:13,899 - [INFO] - from play in play-internal-execution-context-1 
+Application started (Dev)
+
+2014-12-22 20:40:20,199 - [INFO] - from play in play-internal-execution-context-1 
+database [default] connected at jdbc:postgresql://cloudproj.ct233hyipvfx.us-east-1.rds.amazonaws.com:5432/elandb
+
+2014-12-22 20:40:20,335 - [INFO] - from play in play-internal-execution-context-1 
+Application started (Dev)
+
+2014-12-22 20:51:04,453 - [INFO] - from play in play-internal-execution-context-1 
+database [default] connected at jdbc:postgresql://cloudproj.ct233hyipvfx.us-east-1.rds.amazonaws.com:5432/elandb
+
+2014-12-22 20:51:04,560 - [INFO] - from play in play-internal-execution-context-1 
+Application started (Dev)
+
+2014-12-22 20:56:02,260 - [INFO] - from play in play-internal-execution-context-12 
+database [default] connected at jdbc:postgresql://cloudproj.ct233hyipvfx.us-east-1.rds.amazonaws.com:5432/elandb
+
+2014-12-22 20:56:02,399 - [INFO] - from play in play-internal-execution-context-12 
+Application started (Dev)
+
+2014-12-22 20:56:54,970 - [INFO] - from play in play-internal-execution-context-13 
+database [default] connected at jdbc:postgresql://cloudproj.ct233hyipvfx.us-east-1.rds.amazonaws.com:5432/elandb
+
+2014-12-22 20:56:55,080 - [INFO] - from play in play-internal-execution-context-13 
+Application started (Dev)
+
+2014-12-22 20:58:00,631 - [INFO] - from play in play-internal-execution-context-13 
+database [default] connected at jdbc:postgresql://cloudproj.ct233hyipvfx.us-east-1.rds.amazonaws.com:5432/elandb
+
+2014-12-22 20:58:00,742 - [INFO] - from play in play-internal-execution-context-13 
+Application started (Dev)
+
+2014-12-22 20:59:22,406 - [INFO] - from play in play-internal-execution-context-13 
+database [default] connected at jdbc:postgresql://cloudproj.ct233hyipvfx.us-east-1.rds.amazonaws.com:5432/elandb
+
+2014-12-22 20:59:22,508 - [INFO] - from play in play-internal-execution-context-13 
+Application started (Dev)
+
+2014-12-22 21:00:09,862 - [INFO] - from play in play-internal-execution-context-13 
+database [default] connected at jdbc:postgresql://cloudproj.ct233hyipvfx.us-east-1.rds.amazonaws.com:5432/elandb
+
+2014-12-22 21:00:09,979 - [INFO] - from play in play-internal-execution-context-13 
+Application started (Dev)
+
+2014-12-22 21:01:10,507 - [INFO] - from play in play-internal-execution-context-13 
+database [default] connected at jdbc:postgresql://cloudproj.ct233hyipvfx.us-east-1.rds.amazonaws.com:5432/elandb
+
+2014-12-22 21:01:10,616 - [INFO] - from play in play-internal-execution-context-13 
+Application started (Dev)
+
+2014-12-22 21:01:55,896 - [INFO] - from play in play-internal-execution-context-18 
+database [default] connected at jdbc:postgresql://cloudproj.ct233hyipvfx.us-east-1.rds.amazonaws.com:5432/elandb
+
+2014-12-22 21:01:56,000 - [INFO] - from play in play-internal-execution-context-18 
+Application started (Dev)
+
+2014-12-22 21:02:46,479 - [INFO] - from play in play-internal-execution-context-19 
+database [default] connected at jdbc:postgresql://cloudproj.ct233hyipvfx.us-east-1.rds.amazonaws.com:5432/elandb
+
+2014-12-22 21:02:46,594 - [INFO] - from play in play-internal-execution-context-19 
+Application started (Dev)
+
+2014-12-22 21:03:57,263 - [INFO] - from play in play-internal-execution-context-19 
+database [default] connected at jdbc:postgresql://cloudproj.ct233hyipvfx.us-east-1.rds.amazonaws.com:5432/elandb
+
+2014-12-22 21:03:57,402 - [INFO] - from play in play-internal-execution-context-19 
+Application started (Dev)
+
+2014-12-22 21:05:56,324 - [INFO] - from play in play-internal-execution-context-19 
+database [default] connected at jdbc:postgresql://cloudproj.ct233hyipvfx.us-east-1.rds.amazonaws.com:5432/elandb
+
+2014-12-22 21:05:56,443 - [INFO] - from play in play-internal-execution-context-19 
+Application started (Dev)
+
+2014-12-22 21:06:33,208 - [INFO] - from play in play-internal-execution-context-19 
+database [default] connected at jdbc:postgresql://cloudproj.ct233hyipvfx.us-east-1.rds.amazonaws.com:5432/elandb
+
+2014-12-22 21:06:33,309 - [INFO] - from play in play-internal-execution-context-19 
+Application started (Dev)
+
+2014-12-22 21:07:55,103 - [INFO] - from play in play-internal-execution-context-23 
+database [default] connected at jdbc:postgresql://cloudproj.ct233hyipvfx.us-east-1.rds.amazonaws.com:5432/elandb
+
+2014-12-22 21:07:55,213 - [INFO] - from play in play-internal-execution-context-23 
+Application started (Dev)
+
+2014-12-22 21:08:35,526 - [INFO] - from play in play-internal-execution-context-24 
+database [default] connected at jdbc:postgresql://cloudproj.ct233hyipvfx.us-east-1.rds.amazonaws.com:5432/elandb
+
+2014-12-22 21:08:35,636 - [INFO] - from play in play-internal-execution-context-24 
+Application started (Dev)
+
+2014-12-22 21:14:57,960 - [INFO] - from play in play-internal-execution-context-24 
+database [default] connected at jdbc:postgresql://cloudproj.ct233hyipvfx.us-east-1.rds.amazonaws.com:5432/elandb
+
+2014-12-22 21:14:58,053 - [INFO] - from play in play-internal-execution-context-24 
+Application started (Dev)
+
+2014-12-22 21:15:43,581 - [INFO] - from play in play-internal-execution-context-24 
+database [default] connected at jdbc:postgresql://cloudproj.ct233hyipvfx.us-east-1.rds.amazonaws.com:5432/elandb
+
+2014-12-22 21:15:43,691 - [INFO] - from play in play-internal-execution-context-24 
+Application started (Dev)
+
+2014-12-22 21:16:15,631 - [INFO] - from play in play-internal-execution-context-24 
+database [default] connected at jdbc:postgresql://cloudproj.ct233hyipvfx.us-east-1.rds.amazonaws.com:5432/elandb
+
+2014-12-22 21:16:15,735 - [INFO] - from play in play-internal-execution-context-24 
+Application started (Dev)
+
+2014-12-22 21:23:04,565 - [INFO] - from play in play-internal-execution-context-24 
+database [default] connected at jdbc:postgresql://cloudproj.ct233hyipvfx.us-east-1.rds.amazonaws.com:5432/elandb
+
+2014-12-22 21:23:04,667 - [INFO] - from play in play-internal-execution-context-24 
+Application started (Dev)
+
+2014-12-22 21:26:04,451 - [INFO] - from play in play-internal-execution-context-24 
+database [default] connected at jdbc:postgresql://cloudproj.ct233hyipvfx.us-east-1.rds.amazonaws.com:5432/elandb
+
+2014-12-22 21:26:04,573 - [INFO] - from play in play-internal-execution-context-24 
+Application started (Dev)
+
+2014-12-22 21:27:33,337 - [INFO] - from play in play-internal-execution-context-30 
+database [default] connected at jdbc:postgresql://cloudproj.ct233hyipvfx.us-east-1.rds.amazonaws.com:5432/elandb
+
+2014-12-22 21:27:33,450 - [INFO] - from play in play-internal-execution-context-30 
+Application started (Dev)
+
+2014-12-22 21:28:40,139 - [INFO] - from play in play-internal-execution-context-30 
+database [default] connected at jdbc:postgresql://cloudproj.ct233hyipvfx.us-east-1.rds.amazonaws.com:5432/elandb
+
+2014-12-22 21:28:40,300 - [INFO] - from play in play-internal-execution-context-30 
+Application started (Dev)
+
+2014-12-22 21:31:40,082 - [INFO] - from play in play-internal-execution-context-32 
+database [default] connected at jdbc:postgresql://cloudproj.ct233hyipvfx.us-east-1.rds.amazonaws.com:5432/elandb
+
+2014-12-22 21:31:40,203 - [INFO] - from play in play-internal-execution-context-32 
+Application started (Dev)
+
+2014-12-22 21:33:17,342 - [INFO] - from play in play-internal-execution-context-32 
+database [default] connected at jdbc:postgresql://cloudproj.ct233hyipvfx.us-east-1.rds.amazonaws.com:5432/elandb
+
+2014-12-22 21:33:17,443 - [INFO] - from play in play-internal-execution-context-32 
+Application started (Dev)
+
+2014-12-22 21:33:44,754 - [INFO] - from play in play-internal-execution-context-32 
+database [default] connected at jdbc:postgresql://cloudproj.ct233hyipvfx.us-east-1.rds.amazonaws.com:5432/elandb
+
+2014-12-22 21:33:44,859 - [INFO] - from play in play-internal-execution-context-32 
+Application started (Dev)
+
+2014-12-22 21:35:11,891 - [INFO] - from play in play-internal-execution-context-35 
+database [default] connected at jdbc:postgresql://cloudproj.ct233hyipvfx.us-east-1.rds.amazonaws.com:5432/elandb
+
+2014-12-22 21:35:11,998 - [INFO] - from play in play-internal-execution-context-35 
+Application started (Dev)
+
+2014-12-22 21:39:40,417 - [INFO] - from play in play-internal-execution-context-35 
+database [default] connected at jdbc:postgresql://cloudproj.ct233hyipvfx.us-east-1.rds.amazonaws.com:5432/elandb
+
+2014-12-22 21:39:40,546 - [INFO] - from play in play-internal-execution-context-35 
+Application started (Dev)
+
+2014-12-22 21:43:50,223 - [INFO] - from play in play-internal-execution-context-35 
+database [default] connected at jdbc:postgresql://cloudproj.ct233hyipvfx.us-east-1.rds.amazonaws.com:5432/elandb
+
+2014-12-22 21:43:50,386 - [INFO] - from play in play-internal-execution-context-35 
+Application started (Dev)
+
+2014-12-22 21:46:19,097 - [INFO] - from play in play-internal-execution-context-35 
+database [default] connected at jdbc:postgresql://cloudproj.ct233hyipvfx.us-east-1.rds.amazonaws.com:5432/elandb
+
+2014-12-22 21:46:19,203 - [INFO] - from play in play-internal-execution-context-35 
+Application started (Dev)
+
+2014-12-22 21:48:31,102 - [INFO] - from play in play-internal-execution-context-35 
+database [default] connected at jdbc:postgresql://cloudproj.ct233hyipvfx.us-east-1.rds.amazonaws.com:5432/elandb
+
+2014-12-22 21:48:31,221 - [INFO] - from play in play-internal-execution-context-35 
+Application started (Dev)
+

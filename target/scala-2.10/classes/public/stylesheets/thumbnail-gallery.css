@@ -1,0 +1,80 @@
+/*!
+ * Start Bootstrap - Thumbnail Gallery HTML Template (http://startbootstrap.com)
+ * Code licensed under the Apache License v2.0.
+ * For details, see http://www.apache.org/licenses/LICENSE-2.0.
+ */
+
+body {
+    padding-top: 70px; /* Required padding for .navbar-fixed-top. Change if height of navigation changes. */
+}
+
+.thumb {
+    margin-bottom: 30px;
+}
+.img-responsiv{
+	{
+	display: block;
+	height: 250px;
+	width:400px
+}
+}
+
+.nested-container {
+width: 102%;
+margin-left: -1%;
+margin-top: 0px;
+padding-top: 0px;
+display: block;
+text-align: left;
+}
+
+
+.page-banners{
+margin-bottom: 2%;
+margin-top: 0px;
+padding-top: 0px;
+display: block;
+}
+.nested-container {
+width: 102%;
+margin-left: -1%;
+}
+
+.grid12-4{
+transition-property: all;
+transition-duration: 300ms;
+transition-timing-function: ease-in-out;
+transition-delay: initial;
+-webkit-transition-property: all;
+-webkit-transition-duration: 300ms;
+-webkit-transition-timing-function: ease-in-out;
+-webkit-transition-delay: initial;
+width: 31.33%;
+position: relative;
+display: inline;
+float: left;
+margin-left: 1%;
+margin-right: 1%;
+}
+.grid12-8{
+	transition-property: all;
+transition-duration: 300ms;
+transition-timing-function: ease-in-out;
+transition-delay: initial;
+-webkit-transition-property: all;
+-webkit-transition-duration: 300ms;
+-webkit-transition-timing-function: ease-in-out;
+-webkit-transition-delay: initial;
+width: 64.67%;
+position: relative;
+display: inline;
+float: left;
+margin-left: 1%;
+margin-right: 1%;
+}
+
+
+footer {
+    margin: 50px 0;
+}
+
