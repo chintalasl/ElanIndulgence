@@ -9,6 +9,11 @@
 	border: 0px !important;
 	background: transparent !important;
 }
+.the-slideshow  {
+max-width: 100%;
+display: block;
+margin: 0 auto;
+}
 
 .logo {
 	font-size: 20px  !important;
